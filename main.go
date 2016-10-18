@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/aneurysm9/devtricks/cmd"
+import "github.com/aneurysm9/devtricks-pprof/cmd"
 
 func main() {
 	cmd.Execute()
